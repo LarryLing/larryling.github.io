@@ -7,6 +7,8 @@
 
 ## Sketch
 
+<img src="images/project-sketch.png" width="500" alt="Project Sketch">
+
 ## Build Process
 
 TODO
